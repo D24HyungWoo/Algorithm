@@ -1,0 +1,75 @@
+<mxfile host="app.diagrams.net" modified="2024-03-08T02:29:48.776Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="OqvvWg8Vpj4nD8QK6OQi" version="24.0.2" type="device">
+  <diagram name="페이지-1" id="djlGuAK5ZAGySKCyIh6O">
+    <mxGraphModel dx="1434" dy="780" grid="1" gridSize="16" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="TI90xDr4-BYLBOiwkyan-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;" edge="1" parent="1" source="TI90xDr4-BYLBOiwkyan-1" target="TI90xDr4-BYLBOiwkyan-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TI90xDr4-BYLBOiwkyan-1" value="input a, b, c" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="342" y="50" width="144" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TI90xDr4-BYLBOiwkyan-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;" edge="1" parent="1" source="TI90xDr4-BYLBOiwkyan-2" target="TI90xDr4-BYLBOiwkyan-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TI90xDr4-BYLBOiwkyan-2" value="min = a" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="354" y="140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TI90xDr4-BYLBOiwkyan-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;" edge="1" parent="1" source="TI90xDr4-BYLBOiwkyan-4" target="TI90xDr4-BYLBOiwkyan-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TI90xDr4-BYLBOiwkyan-8" value="YES" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;" vertex="1" connectable="0" parent="TI90xDr4-BYLBOiwkyan-7">
+          <mxGeometry x="-0.2471" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TI90xDr4-BYLBOiwkyan-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;" edge="1" parent="1" source="TI90xDr4-BYLBOiwkyan-4" target="TI90xDr4-BYLBOiwkyan-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TI90xDr4-BYLBOiwkyan-12" value="NO" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;" vertex="1" connectable="0" parent="TI90xDr4-BYLBOiwkyan-10">
+          <mxGeometry x="-0.52" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TI90xDr4-BYLBOiwkyan-4" value="b &amp;lt; min" style="rhombus;whiteSpace=wrap;html=1;rounded=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="349" y="230" width="130" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="TI90xDr4-BYLBOiwkyan-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=16;" edge="1" parent="1" source="TI90xDr4-BYLBOiwkyan-6" target="TI90xDr4-BYLBOiwkyan-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TI90xDr4-BYLBOiwkyan-6" value="min = b" style="whiteSpace=wrap;html=1;rounded=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="564" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TI90xDr4-BYLBOiwkyan-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;" edge="1" parent="1" source="TI90xDr4-BYLBOiwkyan-9" target="TI90xDr4-BYLBOiwkyan-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TI90xDr4-BYLBOiwkyan-17" value="YES" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;" vertex="1" connectable="0" parent="TI90xDr4-BYLBOiwkyan-14">
+          <mxGeometry x="-0.2471" y="4" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TI90xDr4-BYLBOiwkyan-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;" edge="1" parent="1" source="TI90xDr4-BYLBOiwkyan-9" target="TI90xDr4-BYLBOiwkyan-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TI90xDr4-BYLBOiwkyan-19" value="NO" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;" vertex="1" connectable="0" parent="TI90xDr4-BYLBOiwkyan-16">
+          <mxGeometry x="-0.64" y="-3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TI90xDr4-BYLBOiwkyan-9" value="c &amp;lt; min" style="rhombus;whiteSpace=wrap;html=1;rounded=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="349" y="360" width="130" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="TI90xDr4-BYLBOiwkyan-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=16;" edge="1" parent="1" source="TI90xDr4-BYLBOiwkyan-13" target="TI90xDr4-BYLBOiwkyan-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TI90xDr4-BYLBOiwkyan-13" value="min = c" style="whiteSpace=wrap;html=1;rounded=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="564" y="370" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TI90xDr4-BYLBOiwkyan-15" value="output min" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="354" y="490" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

@@ -1,0 +1,31 @@
+<mxfile host="app.diagrams.net" modified="2024-03-08T02:23:38.913Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="jQy6s6ECVdaA16hBzmbV" version="24.0.2" type="device">
+  <diagram name="페이지-1" id="V8eCh-tVwBo_eySAp5ow">
+    <mxGraphModel dx="1434" dy="780" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="QxlbAT8nq1mBVWmzSDvT-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="QxlbAT8nq1mBVWmzSDvT-2" target="QxlbAT8nq1mBVWmzSDvT-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QxlbAT8nq1mBVWmzSDvT-2" value="input change" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="50" width="290" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QxlbAT8nq1mBVWmzSDvT-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="QxlbAT8nq1mBVWmzSDvT-3" target="QxlbAT8nq1mBVWmzSDvT-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QxlbAT8nq1mBVWmzSDvT-3" value="Num_500 = change / 500의 몫" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="275" y="140" width="280" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QxlbAT8nq1mBVWmzSDvT-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="QxlbAT8nq1mBVWmzSDvT-5" target="QxlbAT8nq1mBVWmzSDvT-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QxlbAT8nq1mBVWmzSDvT-5" value="Num_100 = (change % 500)/100" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="230" width="290" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QxlbAT8nq1mBVWmzSDvT-7" value="output Num_500, Num_100" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="320" width="310" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

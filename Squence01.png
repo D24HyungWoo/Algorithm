@@ -1,0 +1,48 @@
+<mxfile host="app.diagrams.net" modified="2024-03-08T02:12:30.372Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="E1VmCe8new8eAZDsBvdr" version="24.0.2" type="device">
+  <diagram name="페이지-1" id="Dczi0tdpIZEEYLz0hAg8">
+    <mxGraphModel dx="1434" dy="780" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="rf4ee7PREfcTRC21mTvq-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="rf4ee7PREfcTRC21mTvq-1" target="rf4ee7PREfcTRC21mTvq-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rf4ee7PREfcTRC21mTvq-1" value="입력 a, b" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="350" y="40" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rf4ee7PREfcTRC21mTvq-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="rf4ee7PREfcTRC21mTvq-2" target="rf4ee7PREfcTRC21mTvq-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rf4ee7PREfcTRC21mTvq-2" value="변수 temp 선언" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="360" y="130" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rf4ee7PREfcTRC21mTvq-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="rf4ee7PREfcTRC21mTvq-4" target="rf4ee7PREfcTRC21mTvq-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rf4ee7PREfcTRC21mTvq-4" value="temp = a" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="360" y="210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rf4ee7PREfcTRC21mTvq-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="rf4ee7PREfcTRC21mTvq-6" target="rf4ee7PREfcTRC21mTvq-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rf4ee7PREfcTRC21mTvq-6" value="a = b" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="360" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rf4ee7PREfcTRC21mTvq-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="rf4ee7PREfcTRC21mTvq-8" target="rf4ee7PREfcTRC21mTvq-17">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="420" y="440" />
+              <mxPoint x="420" y="440" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rf4ee7PREfcTRC21mTvq-8" value="b = temp" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="360" y="370" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rf4ee7PREfcTRC21mTvq-17" value="출력 a , b" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontSize=16;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="344" y="450" width="140" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
